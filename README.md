@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rafikilebron">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:rafaelgarciromero@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
