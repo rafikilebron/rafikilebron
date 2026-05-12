@@ -92,10 +92,9 @@ I have hands-on experience developing **industrial vision systems** and integrat
 - Deployed and validated across **multiple production lines**
 
 ### 🔹 Robotics Programming & Integration
-- Experience with industrial robotic systems and automation workflows:
+- Experience with industrial robotic systems:
   - 🤖 **ABB robots** (RAPID programming, socket-based communication)
   - 🤖 **NACHI robots** (program structure and motion logic understanding)
-- Developed basic integration between vision systems and robot control interfaces
 
 ---
 
