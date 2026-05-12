@@ -53,7 +53,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
   <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,python" />
   
   <!-- Stable custom icons -->
-  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/NumPy_logo_2020.svg" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
   <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
   <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </p>
