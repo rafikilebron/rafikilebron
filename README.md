@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rafael García</h1>
-<h3 align="center">Computer Vision Engineer | Robotics & AI Enthusiast</h3>
+<h3 align="center">Mechatronics Engineer | Computer Vision</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
