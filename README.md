@@ -50,7 +50,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 <p>
   <!-- Core tools (reliable icons) -->
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,python" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,python" />
   
   <!-- Stable custom icons -->
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
@@ -61,8 +61,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ---
 
 - **OpenCV** → Real-time image processing, contour detection, thresholding, and industrial vision systems  
-- **PyTorch** → Deep learning model development, training, and experimentation (CNNs, custom architectures)  
-- **TensorFlow** → Model prototyping and deployment workflows  
+- **PyTorch** → Deep learning model development, training, and experimentation (CNNs, transfer learning, custom architectures)
 - **NumPy** → Efficient numerical operations and array manipulation for image data  
 - **Matplotlib** → Visualization of images, debugging pipelines, and model results  
 - **Scikit-learn** → Classical machine learning, feature-based models, and preprocessing  
