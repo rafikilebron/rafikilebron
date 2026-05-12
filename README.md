@@ -59,8 +59,6 @@ I have hands-on experience developing **industrial vision systems** and integrat
   <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </p>
 
----
-
 - **OpenCV** → Real-time image processing, contour detection, thresholding, and industrial vision systems  
 - **PyTorch** → Deep learning model development, training, and experimentation (CNNs, transfer learning, custom architectures)
 - **NumPy** → Efficient numerical operations and array manipulation for image data  
