@@ -22,7 +22,7 @@ I am a Mechatronics Engineer with a strong focus on **Computer Vision and Artifi
 I have hands-on experience developing **industrial vision systems** and integrating image classification and object detection algorithms into real-world applications.
 
 - 🎯 Currently focused on: **Computer Vision for industrial and autonomous systems**
-- 🤖 Experience with: **robot programming, embedded systems, and AI deployment**
+- 🤖 Experience with: **embedded vision systems, model training, hyperparameter optimization, data augmentation strategies, and real-world AI deployment**
 - 🧠 Passionate about: **building intelligent systems that interact with the real world**
 - ⚡ Strength: Bridging **software + hardware + AI**
 
@@ -31,8 +31,9 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ## 🧠 Computer Vision Skills
 
 - Image Processing (filtering, transformations, feature extraction)
-- Image Classification (KNN, Linear Classifiers, SVM, CNN)
+- Image Classification (KNN, Linear Classifiers, SVM, CNN architectures)
 - Object Detection (Haar Classifiers, Faster R-CNN)
+- Transfer Learning
 - Classical Vision Algorithms (Contours, Thresholding, Morphology, SIFT)
 - Model training, validation, and optimization
 - Dataset creation and preprocessing
