@@ -93,7 +93,6 @@ I have hands-on experience developing **industrial vision systems** and integrat
 - Experience with industrial robots:
   - ABB (RAPID programming, socket communication)
   - NACHI robots
-- Integration of vision + motion systems
 
 ---
 
