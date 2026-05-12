@@ -47,24 +47,27 @@ I have hands-on experience developing **industrial vision systems** and integrat
 </p>
 
 ### 🤖 Computer Vision & AI
+
 <p>
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+  <!-- Core tools (reliable icons) -->
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,python" />
   
-  <!-- Custom icons -->
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Python.png" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/NumPy_logo_2020.svg" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" />
-  <img height="50" src="https://python-pillow.org/assets/logo.png" />
+  <!-- Stable custom icons -->
+  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/NumPy_logo_2020.svg" />
+  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </p>
 
-- OpenCV for real-time image processing and industrial vision systems  
-- PyTorch for deep learning model development and training  
-- TensorFlow for model experimentation and deployment  
-- Scikit-learn for classical machine learning and data preprocessing  
+---
+
+- **OpenCV** → Real-time image processing, contour detection, thresholding, and industrial vision systems  
+- **PyTorch** → Deep learning model development, training, and experimentation (CNNs, custom architectures)  
+- **TensorFlow** → Model prototyping and deployment workflows  
+- **NumPy** → Efficient numerical operations and array manipulation for image data  
+- **Matplotlib** → Visualization of images, debugging pipelines, and model results  
+- **Scikit-learn** → Classical machine learning, feature-based models, and preprocessing  
+- **Pillow (PIL)** → Image loading, format conversion, and lightweight preprocessing  
+- **scikit-image** → Advanced image processing (filters, segmentation, feature extraction)   
 
 ### ⚙️ Robotics & Systems
 <p>
