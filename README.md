@@ -77,7 +77,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ---
 
 ## 🏭 Experience  
-### Machine Vision Intern – Special Machine Processes (BOSCH MANUFACTURING SOLUTIONS)
+### Machine Vision Intern – BOSCH MANUFACTURING SOLUTIONS
 
 ---
 
