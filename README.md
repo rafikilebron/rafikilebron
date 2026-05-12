@@ -48,7 +48,17 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 🤖 Computer Vision & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+  
+  <!-- Custom icons -->
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Python.png" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/NumPy_logo_2020.svg" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" />
+  <img height="50" src="https://python-pillow.org/assets/logo.png" />
 </p>
 
 - OpenCV for real-time image processing and industrial vision systems  
