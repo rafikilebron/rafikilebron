@@ -31,9 +31,9 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ## 🧠 Computer Vision Skills
 
 - Image Processing (filtering, transformations, feature extraction)
-- Object Detection & Classification
-- Classical Vision Algorithms (Contours, Thresholding, Morphology)
-- Deep Learning for Vision (CNNs)
+- Image Classification (KNN, Linear Classifiers, SVM, CNN)
+- Object Detection (Haar Classifiers, Faster R-CNN, YOLO)
+- Classical Vision Algorithms (Contours, Thresholding, Morphology, SIFT)
 - Model training, validation, and optimization
 - Dataset creation and preprocessing
 
@@ -48,7 +48,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 🤖 Computer Vision & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,scikit-learn" />
 </p>
 
 ### ⚙️ Robotics & Systems
