@@ -77,6 +77,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ---
 
 ## 🏭 Experience
+## Machine Vision Intern – Special Machine Processes
 
 ### 🔹 Industrial Vision System Development
 - Developed a **low-cost vision system** using Raspberry Pi
