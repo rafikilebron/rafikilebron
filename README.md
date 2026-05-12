@@ -32,7 +32,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 - Image Processing (filtering, transformations, feature extraction)
 - Image Classification (KNN, Linear Classifiers, SVM, CNN)
-- Object Detection (Haar Classifiers, Faster R-CNN, YOLO)
+- Object Detection (Haar Classifiers, Faster R-CNN)
 - Classical Vision Algorithms (Contours, Thresholding, Morphology, SIFT)
 - Model training, validation, and optimization
 - Dataset creation and preprocessing
@@ -101,16 +101,15 @@ I have hands-on experience developing **industrial vision systems** and integrat
 - Autonomous Driving 🚗
 - AI in Manufacturing 🏭
 - Embedded AI Systems 🧠
-- Robotics Simulation & Control 🤖
 - Computer Vision Research 🔬
 
 ---
 
 ## 📈 Currently Learning
 
-- Advanced Deep Learning Architectures (ResNet, YOLO, Faster R-CNN)
-- ROS 2 for robotics applications
+- Modern Deep Learning Architectures (Transformers, ViT, EfficientNet, ConvNeXt)
 - Computer Vision for autonomous navigation
+- YOLO for object detection
 
 ---
 
