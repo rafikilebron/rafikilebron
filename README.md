@@ -91,8 +91,6 @@ I have hands-on experience developing **industrial vision systems** and integrat
   - 🎯 ~**98% detection accuracy** in production environments  
 - Deployed and validated across **multiple production lines**
 
----
-
 ### 🔹 Robotics Programming & Integration
 - Experience with industrial robotic systems and automation workflows:
   - 🤖 **ABB robots** (RAPID programming, socket-based communication)
