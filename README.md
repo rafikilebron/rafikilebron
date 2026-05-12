@@ -76,23 +76,28 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ---
 
-## 🏭 Experience
-## Machine Vision Intern – Special Machine Processes
+## 🏭 Experience  
+### Machine Vision Intern – Special Machine Processes
 
-### 🔹 Industrial Vision System Development
-- Developed a **low-cost vision system** using Raspberry Pi
-- Applied classical CV + AI for:
-  - Presence/absence detection
-  - Defect detection
-- Achieved:
-  - 📉 Up to **70% cost reduction**
-  - 🎯 **~98% detection accuracy**
-- Deployed across **multiple production lines**
+---
 
-### 🔹 Robotics Programming
-- Experience with industrial robots:
-  - ABB (RAPID programming, socket communication)
-  - NACHI robots
+### 🔹 Industrial Vision Systems Development
+- Designed and developed a **low-cost embedded vision system** using Raspberry Pi
+- Integrated **classical computer vision + deep learning models** for industrial inspection:
+  - Presence / absence detection  
+  - Visual defect detection  
+- Achieved measurable impact:
+  - 📉 Up to **70% cost reduction** in inspection systems  
+  - 🎯 ~**98% detection accuracy** in production environments  
+- Deployed and validated across **multiple production lines**
+
+---
+
+### 🔹 Robotics Programming & Integration
+- Experience with industrial robotic systems and automation workflows:
+  - 🤖 **ABB robots** (RAPID programming, socket-based communication)
+  - 🤖 **NACHI robots** (program structure and motion logic understanding)
+- Developed basic integration between vision systems and robot control interfaces
 
 ---
 
