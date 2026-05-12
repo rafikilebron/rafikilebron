@@ -115,8 +115,8 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ## 📫 Contact
 
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: www.linkedin.com/in/rafikilebron
+- Email: rafaelgarciromero@gmail.com
 
 ---
 
