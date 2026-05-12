@@ -43,7 +43,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 👨‍💻 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux" />
 </p>
 
 ### 🤖 Computer Vision & AI
