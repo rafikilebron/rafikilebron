@@ -68,7 +68,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 - **Pillow (PIL)** → Image loading, format conversion, and lightweight preprocessing  
 - **scikit-image** → Advanced image processing (filters, segmentation, feature extraction)   
 
-### ⚙️ Robotics & Systems
+### ⚙️ Embedded Systems
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
 </p>
