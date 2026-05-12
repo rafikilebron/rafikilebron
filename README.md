@@ -18,8 +18,8 @@
 
 ## 🚀 About Me
 
-I am a Mechatronics Engineer with a strong focus on **Computer Vision, Robotics, and Artificial Intelligence**.  
-I have hands-on experience developing **industrial vision systems** and integrating AI into real-world applications.
+I am a Mechatronics Engineer with a strong focus on **Computer Vision and Artificial Intelligence**.  
+I have hands-on experience developing **industrial vision systems** and integrating image classification and object detection algorithms into real-world applications.
 
 - 🎯 Currently focused on: **Computer Vision for industrial and autonomous systems**
 - 🤖 Experience with: **robot programming, embedded systems, and AI deployment**
