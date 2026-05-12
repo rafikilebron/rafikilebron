@@ -48,7 +48,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 🤖 Computer Vision & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn" />
 </p>
 
 ### ⚙️ Robotics & Systems
