@@ -48,8 +48,13 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 🤖 Computer Vision & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn, tensorflow" />
 </p>
+
+- OpenCV for real-time image processing and industrial vision systems  
+- PyTorch for deep learning model development and training  
+- TensorFlow for model experimentation and deployment  
+- Scikit-learn for classical machine learning and data preprocessing  
 
 ### ⚙️ Robotics & Systems
 <p>
