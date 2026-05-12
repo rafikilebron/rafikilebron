@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*XEgA1TTwXa5AvAdw40GFow.png" height="220"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Rafael García</h1>
 <h3 align="center">Mechatronics & Computer Vision Engineer</h3>
 
