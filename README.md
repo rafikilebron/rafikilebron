@@ -73,12 +73,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
 </p>
 
-- OpenCV (Image Processing & Vision Systems)
-- PyTorch / TensorFlow (Deep Learning)
-- NumPy, Pandas, Matplotlib
-- Raspberry Pi (Edge AI systems)
-- ROS 2 (learning phase)
-- Industrial robot programming (ABB, NACHI)
+- **Raspberry Pi 5** → Deployed in many assembly lines to perform on vision applications.
 
 ---
 
