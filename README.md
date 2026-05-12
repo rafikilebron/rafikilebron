@@ -77,7 +77,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 ---
 
 ## 🏭 Experience  
-### Machine Vision Intern – BOSCH MANUFACTURING SOLUTIONS
+### Machine Vision Intern – BOSCH MANUFACTURING SOLUTIONS (2025 - 2026)
 
 ---
 
