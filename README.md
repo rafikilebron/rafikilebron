@@ -46,7 +46,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 <p>
   <!-- Core tools (reliable icons) -->
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,python" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
   
   <!-- Stable custom icons -->
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
