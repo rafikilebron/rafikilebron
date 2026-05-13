@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael García</h1>
+<h1 align="center">Rafael García Romero</h1>
 <h3 align="center">Mechatronics & Computer Vision Engineer</h3>
 
 <p align="center">
