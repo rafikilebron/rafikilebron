@@ -78,7 +78,7 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### 🔹 Industrial Vision Systems Development
 - Designed and developed a **low-cost embedded vision system** using Raspberry Pi
-- Integrated **classical computer vision + deep learning models** for industrial inspection:
+- Integrated **classical computer vision + machine learning models** for industrial inspection:
   - Presence / absence detection  
   - Visual defect detection  
 - Achieved measurable impact:
