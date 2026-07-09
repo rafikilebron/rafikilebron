@@ -1,5 +1,5 @@
 <h1 align="center">Rafael García Romero</h1>
-<h3 align="center">Mechatronics & Computer Vision Engineer</h3>
+<h3 align="center">Embedded Software | Computer Vision | Mechatronics Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafikilebron">
@@ -14,12 +14,32 @@
 
 ## 🚀 About Me
 
-I am a Mechatronics Engineer with a strong focus on **Computer Vision and Artificial Intelligence**.  
-I have hands-on experience developing **industrial vision systems** and integrating image classification and object detection algorithms into real-world applications.
+I am a Mechatronics Engineer passionate about **Embedded Software, Computer Vision, and Intelligent Systems**.
 
-- 🤖 Experience with: **embedded vision systems, model training, hyperparameter optimization, data augmentation strategies, and real-world AI deployment**
-- 🧠 Passionate about: **building intelligent systems that interact with the real world**
-- ⚡ Strength: Bridging **software + hardware + AI**
+I enjoy designing complete engineering solutions that combine **firmware development, desktop applications, real-time communication, and AI algorithms** to solve industrial automation problems.
+
+My experience ranges from developing **embedded computer vision systems on Raspberry Pi** to implementing **real-time motor control, serial communication protocols, and desktop interfaces** for embedded applications.
+
+- 🤖 Experience with: **embedded software, computer vision, firmware development, AI deployment, industrial automation, and robotics**
+- ⚙️ Interested in: **Embedded Systems, Computer Vision, Robotics, and Intelligent Manufacturing**
+- 🧠 Strength: Bridging **hardware + firmware + software + AI**
+
+---
+
+## ⚙️ Embedded Software Skills
+
+- Embedded C/C++
+- Object-Oriented Programming
+- Firmware Development
+- UART Communication
+- SPI / I2C basics
+- PWM Motor Control
+- PID Control Systems
+- Hardware Interrupts
+- Encoder Signal Processing
+- Embedded Software Architecture
+- Serial Protocol Design
+- Real-Time Data Acquisition
 
 ---
 
@@ -64,10 +84,12 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ### ⚙️ Embedded Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux"/>
 </p>
 
-- **Raspberry Pi 5** → Deployed in many assembly lines to perform on vision applications.
+- **ATmega328P (Arduino)**
+- **ESP32**
+- **Raspberry Pi**
 
 ---
 
@@ -93,17 +115,31 @@ I have hands-on experience developing **industrial vision systems** and integrat
 
 ---
 
+### University 📐
+### 🔹 Embedded Software Development
+
+- Developed firmware for embedded applications using C++
+- Designed communication interfaces between embedded devices and desktop software
+- Developed desktop applications for monitoring and control
+- Implemented serial communication protocols for embedded systems
+
+---
+
 ## 📊 Interests
 
-- Autonomous Driving 🚗
-- AI in Manufacturing 🏭
+- Embedded Systems 🤖
 - Embedded AI Systems 🧠
-- Computer Vision Research 🔬
+- Computer Vision 👁
+- Industrial Robotics 🤖
+- AI in Manufacturing 🏭
 
 ---
 
 ## 📈 Currently Learning
 
+- Embedded C/C++
+- Embedded Linux
+- RTOS concepts
 - Modern Deep Learning Architectures (Transformers, ViT, EfficientNet, ConvNeXt)
 - Computer Vision for autonomous navigation
 - YOLO for object detection
@@ -124,5 +160,5 @@ I enjoy turning complex engineering problems into **practical, working systems**
 ---
 
 <p align="center">
-  <i>"Building intelligent machines is not the future — it's happening now."</i>
+  <i>"Engineering complete systems where firmware, software, and AI work together."</i>
 </p>
